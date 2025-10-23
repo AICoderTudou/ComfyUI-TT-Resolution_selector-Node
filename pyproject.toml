@@ -1,0 +1,18 @@
+[project]
+name = "comfyui-tt-resolution-selector"
+version = "1.0.0"
+description = "ComfyUI TT plugin for common resolution selection"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/yourusername/comfyui-resolution-selector"
+Repository = "https://github.com/yourusername/comfyui-resolution-selector"
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
