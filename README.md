@@ -64,14 +64,6 @@ git clone https://github.com/yourusername/comfyui-resolution-selector.git
 - **width**: 图像宽度（整数）
 - **height**: 图像高度（整数）
 
-## 许可证
-
-MIT License
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request 来改进这个插件！
-
 ## 更新日志
 
 ### v1.0.0
