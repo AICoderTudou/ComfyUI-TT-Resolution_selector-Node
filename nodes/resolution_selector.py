@@ -50,8 +50,8 @@ class TTResolutionSelector:
                 "resolution": (list(cls.RESOLUTIONS.keys()), {
                     "default": "1024x1024 (1:1) (方形)"
                 }),
-                "custom_width": ("INT", {"default": 1024, "min": 64, "max": 8192, "step": 8}),
-                "custom_height": ("INT", {"default": 1024, "min": 64, "max": 8192, "step": 8}),
+                "custom_width": ("INT", {"default": 1024, "min": 64, "max": 8192, "step": 1}),
+                "custom_height": ("INT", {"default": 1024, "min": 64, "max": 8192, "step": 1}),
             }
         }
     
